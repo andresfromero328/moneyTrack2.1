@@ -5,9 +5,9 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 const Subscriptions = () => {
   return (
     <div className="rounded-md shadow-sm flex flex-col gap-1 ">
-      <h3 className="bg-accent/30 p-2 rounded-tl-md shadow-sm">
+      <h2 className="bg-accent/30 p-2 rounded-tl-md shadow-sm">
         Subscriptions
-      </h3>
+      </h2>
 
       <div className="flex flex-col gap-2 p-2">
         <div className="w-25 h-25 mx-auto grid place-items-center rounded-full border-8 border-secondary">

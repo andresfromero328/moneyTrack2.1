@@ -21,6 +21,6 @@ export const NAVLINKS: NAVLINKTYPE[] = [
   {
     icon: FaChartPie,
     text: "reports",
-    href: "#",
+    href: "/reports",
   },
 ];

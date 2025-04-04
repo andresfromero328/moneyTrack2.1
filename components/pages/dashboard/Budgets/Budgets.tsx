@@ -12,7 +12,7 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 const Budgets = () => {
   return (
     <div className="rounded-md shadow-sm flex flex-col gap-2 ">
-      <h3 className="bg-accent/30 p-2 rounded-tl-md shadow-sm">Budgets</h3>
+      <h2 className="bg-accent/30 p-2 rounded-tl-md shadow-sm">Budgets</h2>
 
       <div className="flex flex-col gap-5 p-2">
         <div className="flex flex-wrap gap-5 items-center mx-auto">

@@ -6,9 +6,9 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 const UpcomingBill = () => {
   return (
     <div className="rounded-md shadow-sm flex flex-col gap-2 ">
-      <h3 className="bg-accent/30 p-2 rounded-tl-md shadow-sm">
+      <h2 className="bg-accent/30 p-2 rounded-tl-md shadow-sm">
         Upcoming Bill
-      </h3>
+      </h2>
 
       <div className="flex-1 flex flex-col items-center justify-center gap-2 m-2">
         <div className="flex gap-2 items-center">
